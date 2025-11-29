@@ -42,7 +42,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
           <div className="flex items-center gap-8">
             <div className="flex items-center gap-2">
-              <img src="src/assets/Nexlock.png" alt="Logo" className="flex items-center gap-2 h-4 md:h-8" />
+              <img src="/nexlock.png" alt="Logo" className="flex items-center gap-2 h-4 md:h-8" />
             </div>
             
             {/* Desktop Nav */}
@@ -134,7 +134,7 @@ function App() {
               <div className="hidden w-full lg:flex items-center justify-center">
                 <div className="text-center p-6">
                   <div className="bg-bw-900 p-3 rounded text-left overflow-x-auto">
-                    <img src="src/assets/nexlock-hero section.png" alt="Hero" className="w-full h-auto" />
+                    <img src="/nexlock-hero_section.png" alt="Hero" className="w-full h-auto" />
                   </div>
                 </div>
               </div>
